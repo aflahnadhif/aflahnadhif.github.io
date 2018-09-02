@@ -1,0 +1,52 @@
+body{
+    background: #e5e5e5;
+    color: #505050;
+}
+
+.navbar-nav{
+    margin: 0 auto;
+}
+
+.nav-item{
+    padding: 0 4em;
+}
+
+.container{
+    letter-spacing: 0.1em;
+}
+
+#profile-pic{
+    margin: 0;
+    padding-top: 100px;
+    align-items: center;
+}
+
+img{
+    width: 17em;
+    height: auto;
+}
+
+#tagline{
+    margin: 100px 0 0 0;
+}
+
+#copyright{
+    position: absolute;
+    bottom: 2px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.skill-bar{
+    width: 250px;
+    padding: 5px;
+    display: inline-block;
+    background: #505050;
+}
+
+.light-skill-bar{
+    width: 100px;
+    padding: 5px;
+    display: inline-block;
+    background-color: darkgray;
+}

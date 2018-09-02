@@ -1,0 +1,35 @@
+body {
+  background: rgba(0, 8, 7, 0.84);
+  color: #ffffff;
+}
+
+#copyright, .navbar-nav {
+  margin: 0 auto;
+}
+
+.nav-item {
+  padding: 0 4em;
+}
+
+.container {
+  margin-top: 100px;
+  width: 43em;
+  letter-spacing: 0.1em;
+}
+
+#copyright {
+  bottom: 2px;
+  text-align: center;
+}
+
+#legend {
+  margin-bottom: 30px;
+}
+
+li img {
+  width: 500px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+/*# sourceMappingURL=porfoliostylesheet.css.map */

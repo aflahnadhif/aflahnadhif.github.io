@@ -1,0 +1,42 @@
+$background-color: rgba(0, 8, 7, 0.84);
+
+body{
+    background: $background-color;
+    color: #ffffff;
+}
+
+%middle{
+    margin: 0 auto;
+}
+
+.navbar-nav{
+    @extend %middle;
+}
+
+.nav-item{
+    padding: 0 4em;
+}
+
+.container{
+    margin-top: 100px;
+    width: 43em;
+    letter-spacing: 0.1em;
+}
+
+#copyright{
+    @extend %middle;
+    bottom: 2px;
+    text-align: center;
+}
+
+#legend{
+    margin-bottom: 30px;
+}
+
+li{
+    img{
+        width: 500px;
+        height: auto;
+        margin-bottom: 20px;
+    }
+}

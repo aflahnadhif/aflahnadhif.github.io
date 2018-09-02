@@ -1,0 +1,39 @@
+body{
+    background: rgba(166, 52, 70, 0.82);
+    color: white;
+}
+
+.navbar-nav{
+    margin: 0 auto;
+}
+
+.nav-item{
+    padding: 0 4em;
+}
+
+#profile-pic{
+    margin: 0;
+    padding-top: 150px;
+    align-items: center;
+}
+
+div > img{
+    width: 17em;
+    height: 17em;
+}
+
+#tagline{
+    margin: 190px 0 0 0;
+    letter-spacing: 0.3em;
+}
+
+#name{
+    line-height: 2em;
+}
+
+#copyright{
+    position: absolute;
+    bottom: 2px;
+    margin: 0 auto;
+    text-align: center;
+}
